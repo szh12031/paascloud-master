@@ -143,6 +143,7 @@ Spring Cloud 爱好者,现就任于鲜易供应链平台研发部.
 - 文档手册: http://document.paascloud.net
 - github: https://github.com/paascloud
 - 操作手册: http://blog.paascloud.net/2018/06/10/paascloud/doc/
+- ......
 
 ### 架构图
 
